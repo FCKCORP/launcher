@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		body {
+		background: wheat;
+		overflow: hidden	
+		}
+		.alink {
+			  text-decoration: none;
+			  color: wheat;
+			  border-bottom: 1px solid;
+			  border-bottom-color: rgba(15, 122, 252, 0.2);
+		}
+
+		a:hover {
+			  text-decoration: none;
+			  color: #cf0000;
+			  border-bottom-color: rgba(208, 64, 0, 0.2);
+		}
+
+		.obnova {
+			position: absolute;
+			height: 47px;
+			left: 196px;
+			top: 0px;
+
+			font-family: Passion One;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 48px;
+			line-height: 53px;
+
+			color: #B1B1B1;
+		}
+		
+		
+		.background { 
+			position: absolute;
+			width: 923px;
+			height: 505px;
+			left: 0px;
+			top: 0px;
+
+			background: #801818;
+			border: 3px solid #000000;
+			font-family: Roboto;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 18px;
+			line-height: 28px;
+		}
+
+
+		.test {
+			position: absolute;
+			left: 5px;
+			top: 53px;
+
+			font-family: Roboto;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 48px;
+			line-height: 56px;
+
+			color: #000000;
+
+		}
+
+		.kart1 {
+			position: absolute;
+			width: 232px;
+			height: 189px;
+			left: 44px;
+			top: 63px;
+
+			background: #801818;
+			border: 3px solid #000000;
+			box-sizing: border-box;	
+		}
+		
+		.kart2 {
+			position: absolute;
+			width: 232px;
+			height: 189px;
+			left: 44px;
+			top: 283px;
+
+			background: #801818;
+			border: 3px solid #000000;
+			box-sizing: border-box;	
+		}
+		
+		.kart3 {
+			position: absolute;
+			width: 232px;
+			height: 189px;
+			left: 310px;
+			top: 63px;
+
+			background: #801818;
+			border: 3px solid #000000;
+			box-sizing: border-box;	
+		}
+		
+		.kart4 {
+			position: absolute;
+			width: 232px;
+			height: 189px;
+			left: 310px;
+			top: 283px;
+
+			background: #801818;
+			border: 3px solid #000000;
+			box-sizing: border-box;	
+		}
+
+
+			.last_update_main {
+					position: absolute;
+					width: 278px;
+					height: 172px;
+					left: 625px;
+					top: 40px;
+
+				    font-family: Passion One;
+				    font-style: normal;
+				    font-weight: normal;
+				    font-size: 23px;
+				    line-height: 53px;
+
+				    color: #FFFFFF;
+				}
+		
+			.last_update {
+				position: absolute;
+				width: 278px;
+				height: 172px;
+				left: 570px;
+				top: 75px;
+
+			font-family: Passion One;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 16px;
+
+			color: #FFFFFF;
+		}
+		
+		.last_news {		
+			position: absolute;
+			width: 289px;
+			height: 183px;
+			left: 599px;
+			top: 289px;
+
+			font-family: Passion One;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 48px;
+			line-height: 53px;
+
+			color: #FFFFFF;	
+		}
+    
+    .update {
+     color: wheat;
+      font-size: 24px;
+      
+    }
+		
+					</style>
+			<meta charset="utf-8">
+				<title>Launcher</title>
+					</head>
+						<body>
+							<div class="background">
+                <a class="update">Грузчик - бот для автоматической добычи денег на лесопилке сервера Fawemc.me.<br>
+                Работает стабильно, багов не обнаружено.<br>
+                Скачать его можно по ссылке - (потом залью).<br>
+                При установке запускаем его, заходим на сервер и нажимаем клавишу Delete.<br>
+                После вы можете написать в чат /gruz для активации фарма.<br>
+
+                Последнее обновление - 10.02.2022
+                Было добавлено/пофикшено:
+                <ul>
+                <li>1 | Небольшие изменения в работе скрипта</li>
+                 <li>2 | Изменение точек телепортации бота</li>
+                 <li>3 | Поддержка всех версий майнкрафта</li>
+                 <li>4 | Добавили удобный интерфейс для управления скриптом</li>
+                 <li>5 | Фикс небольших багов</li>
+                </ul>
+                Статус скрипта - Работает</a>
+              </div>
+  </body>
+</html>
